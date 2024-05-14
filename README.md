@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Media Server**
 
-- 🌱 I’m currently learning **ASP.NET core / C#**
+- 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alvinobarboza](https://github.com/alvinobarboza)
 
