@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alvino Barboza</h1>
 <h3 align="center">Fullstack</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvinobarboza&label=Profile%20views&color=0e75b6&style=flat" alt="alvinobarboza" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvinobarboza" alt="alvinobarboza" /></a> </p>
 
 - 🔭 I’m currently working on **Media Server**
 
