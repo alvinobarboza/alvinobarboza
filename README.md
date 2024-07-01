@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvino Barboza</h1>
 <h3 align="center">Fullstack</h3>
 
-- 🔭 I’m currently working on **Media Server**
+- 🔭 I’m currently working on a **Media Server** - live stream generator and VOD generator (GO+TEMPL+HTMX+FFMPEG)
 
 - 🌱 I’m currently learning **Go**
 
