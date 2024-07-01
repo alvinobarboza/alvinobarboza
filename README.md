@@ -9,7 +9,22 @@
 
 - 📫 How to reach me **alvinobarboza@gmail.com**
 
-Welcome to my GitHub profile! I'm passionate about software development and have experience working with a wide range of technologies. Below are some of the tools and frameworks I have worked with:
+Welcome to my GitHub profile! I'm passionate about software development and have experience working with a wide range of technologies. 
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvinobarboza&show_icons=true&theme=radical)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/alvinobarboza" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvinobarboza" height="30" width="40" />
+    </a>
+</p>
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate on any projects.
+
+Below are some of the tools and frameworks I have worked with:
 
 ## 🚀 Technologies & Tools
 
@@ -56,15 +71,3 @@ Welcome to my GitHub profile! I'm passionate about software development and have
   <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/unity-original.svg" alt="Unity" width="40" height="40"/>
 </p>
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvinobarboza&show_icons=true&theme=radical)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/alvinobarboza" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvinobarboza" height="30" width="40" />
-    </a>
-</p>
-
-Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate on any projects.
