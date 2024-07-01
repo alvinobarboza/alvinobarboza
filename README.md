@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alvino Barboza</h1>
 <h3 align="center">Fullstack</h3>
 
-
 - 🔭 I’m currently working on **Media Server**
 
 - 🌱 I’m currently learning **Go**
@@ -10,14 +9,62 @@
 
 - 📫 How to reach me **alvinobarboza@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alvinobarboza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvinobarboza" height="30" width="40" /></a>
+Welcome to my GitHub profile! I'm passionate about software development and have experience working with a wide range of technologies. Below are some of the tools and frameworks I have worked with:
+
+## 🚀 Technologies & Tools
+
+### Languages 
+
+| Beginner | Advanced |
+| -------- | -------- |
+| <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/java-original.svg" alt="Java" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/javascript-original.svg" alt="JavaScript" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/csharp-original.svg" alt="C#" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/html5-original.svg" alt="HTML5" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/cplusplus-original.svg" alt="C++" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/css3-original.svg" alt="CSS3" width="40" height="40"/> |
+|  | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/go-original.svg" alt="Go" width="40" height="40"/> |
+
+### Frameworks
+
+| Beginner | Advanced |  
+| -------- | -------- | 
+| <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/express-original.svg" alt="Express.js" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/fastify-original.svg" alt="Fastify" width="40" height="40"/> | 
+| <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/solidjs-original.svg" alt="SolidJS" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/spring-original.svg" alt="Spring" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/react-original.svg" alt="React" width="40" height="40"/> |
+|  | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/> |
+
+### Tools 
+
+| Beginner | Advanced |
+| -------- | -------- |
+| <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/grafana-original.svg" alt="Grafana" width="40" height="40"/> |<img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/nginx-original.svg" alt="Nginx" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/figma-original.svg" alt="Figma" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/nodejs-plain-wordmark.svg" alt="Node.js" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/firebase-original.svg" alt="Firebase" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/cloudflare-original.svg" alt="Cloudflare" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/androidstudio-original.svg" alt="Android Studio" width="40"/> |
+| <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/cloudflareworkers-original.svg" alt="Cloudflare Workers" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/dbeaver-original.svg" alt="DBeaver" width="40" height="40"/> |
+|  | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/postgresql-original.svg" alt="PostgreSQL" width="40" heigh="40"/> |
+|  | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/git-original.svg" alt="Git" width="40" height="40"/> |
+|  | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/postman-original.svg" alt="Postman" width="40" height="40"/> |
+|  | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/intellij-original.svg" alt="IntelliJ IDEA" width="40" height="40"/> |
+|  | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/vscode-original.svg" alt="VSCode" width="40" height="40"/> |
+|  | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/sqlite-original.svg" alt="SQLite" width="40" height="40"/> |
+
+### Hobbies
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/android-original.svg" alt="Android" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/blender-original.svg" alt="Blender" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/godot-original.svg" alt="Godot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/unity-original.svg" alt="Unity" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+## 📈 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvinobarboza&show_icons=true&locale=en&layout=compact" alt="alvinobarboza" /></p>
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvinobarboza&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvinobarboza&show_icons=true&locale=en" alt="alvinobarboza" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/alvinobarboza" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvinobarboza" height="30" width="40" />
+    </a>
+</p>
+
+Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate on any projects.
