@@ -12,7 +12,7 @@
     - An mpegts transporter using GO, from UDP over TCP and back to UDP again, using concurrency, data-structure and more: [repo](https://github.com/alvinobarboza/udp-tcp-udp)
     - A CSV parser from scratch with no dependencies or regex in JS/nodeJS: [repo](https://gist.github.com/alvinobarboza/61cfe68c90ff19a1ebb5e7dc2dc05fc7)
 
-Welcome to my GitHub profile! I'm passionate about software development and have experience working with a wide range of technologies. 
+Welcome to my GitHub profile! I'm passionate about software development and have experience working with a wide range of technologies and also very hard feelings against the use of AI indiscriminately(No Cursor/Claude/ChatGPT/Deepseek), only for learning purposes.
 
 ## 📈 GitHub Stats
 
