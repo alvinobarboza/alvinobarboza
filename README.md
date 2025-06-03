@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Alvino Barboza</h1>
 <h3 align="center">Fullstack</h3>
 
-- 🔭 I’m currently working on a **Media Server** - live stream generator and VOD generator (GO+TEMPL+HTMX+FFMPEG)
-
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently invested in **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alvinobarboza](https://github.com/alvinobarboza)
 
 - 📫 How to reach me **alvinobarboza@gmail.com**
+
+- Some interesting projects I did:
+    - Snake game on terminal using GO [repo](https://github.com/alvinobarboza/snake)
+    - An mpegts transporter using GO, from UDP over TCP and back to UDP again, using concurrency, data-structure and more: [repo](https://github.com/alvinobarboza/udp-tcp-udp)
+    - A CSV parser from scratch with no dependencies or regex in JS/nodeJS: [repo](https://gist.github.com/alvinobarboza/61cfe68c90ff19a1ebb5e7dc2dc05fc7)
 
 Welcome to my GitHub profile! I'm passionate about software development and have experience working with a wide range of technologies. 
 
