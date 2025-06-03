@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvino Barboza</h1>
 <h3 align="center">Fullstack</h3>
 
-- 🌱 I’m currently invested in **Go**
+- 🌳 I’m currently invested in **Go**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alvinobarboza](https://github.com/alvinobarboza)
 
