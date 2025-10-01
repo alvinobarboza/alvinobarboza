@@ -1,29 +1,21 @@
-<h1 align="center">Hi 👋, I'm Alvino Barboza</h1>
+<h1 align="center">Hi, I'm Alvino Barboza</h1>
 <h3 align="center">Fullstack</h3>
 
-- 🌳 I’m currently invested in **Go**
+- 🌳 I’m currently invested in **Go** and **C**
 
-- 👨‍💻 All of my projects are available at [https://github.com/alvinobarboza](https://github.com/alvinobarboza)
+- 👨‍💻 All of my projects are available at [https://github.com/alvinobarboza](https://github.com/alvinobarboza?tab=repositories)
 
-- 📫 How to reach me **alvinobarboza@gmail.com**
+- 📫 How to reach me: **alvinobarboza@gmail.com** or [linkedin/alvinobarboza](https://linkedin.com/in/alvinobarboza)
 
 - ⚡ Some interesting projects I did:
     - Snake game on terminal using GO [repo](https://github.com/alvinobarboza/snake)
     - A mpegts transporter using GO, from UDP over TCP and back to UDP again, using concurrency, data-structure and more: [repo](https://github.com/alvinobarboza/udp-tcp-udp)
     - A CSV parser from scratch with no dependencies or regex in JS/nodeJS: [repo](https://gist.github.com/alvinobarboza/61cfe68c90ff19a1ebb5e7dc2dc05fc7)
+    - Simple video mosaic using Raylib in pure C (C99) : [repo](https://github.com/alvinobarboza/cmosaic)
+    - A softaware raytracer in GO + RaylibGO: [repo](https://github.com/alvinobarboza/go-ray-demo)
+    - A GPU raytracer in GO + RaylibGO, but this time using shaders: [repo](https://github.com/alvinobarboza/go-ray-gpu)
 
 Welcome to my GitHub profile! I'm passionate about software development and have experience working with a wide range of technologies and also very hard feelings against the use of AI indiscriminately(No Cursor/Claude/ChatGPT/Deepseek), only for learning purposes.
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvinobarboza&show_icons=true&theme=radical)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/alvinobarboza" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvinobarboza" height="30" width="40" />
-    </a>
-</p>
 
 Thanks for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate on any projects.
 
