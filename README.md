@@ -14,6 +14,7 @@
     - Simple video mosaic using Raylib in pure C (C99) : [repo](https://github.com/alvinobarboza/cmosaic)
     - A softaware raytracer in GO + RaylibGO: [repo](https://github.com/alvinobarboza/go-ray-demo)
     - A GPU raytracer in GO + RaylibGO, but this time using shaders: [repo](https://github.com/alvinobarboza/go-ray-gpu)
+    - A software rasterizer(WIP) in C + Raylib: [repo](https://github.com/alvinobarboza/c-raster)
 
 Welcome to my GitHub profile! I'm passionate about software development and have experience working with a wide range of technologies and also very hard feelings against the use of AI indiscriminately(No Cursor/Claude/ChatGPT/Deepseek), only for learning purposes.
 
