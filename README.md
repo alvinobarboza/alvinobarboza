@@ -15,6 +15,7 @@
     - A softaware raytracer in GO + RaylibGO: [repo](https://github.com/alvinobarboza/go-ray-demo)
     - A GPU raytracer in GO + RaylibGO, but this time using shaders: [repo](https://github.com/alvinobarboza/go-ray-gpu)
     - A multithreaded software renderer(WIP) in Go + RaylibGO: [repo](https://github.com/alvinobarboza/go-raster)
+    - A simple group voice chat, using WebSockets(Go) and WebRTC(JS/Browser): [repo](https://github.com/alvinobarboza/voice-chat)
 
 Welcome to my GitHub profile! I'm passionate about software development and have experience working with a wide range of technologies and also very hard feelings against the use of AI indiscriminately(No Cursor/Claude/ChatGPT/Deepseek), only for learning purposes.
 
