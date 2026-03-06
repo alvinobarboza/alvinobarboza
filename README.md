@@ -14,7 +14,7 @@
     - Simple video mosaic using Raylib in pure C (C99) : [repo](https://github.com/alvinobarboza/cmosaic)
     - A softaware raytracer in GO + RaylibGO: [repo](https://github.com/alvinobarboza/go-ray-demo)
     - A GPU raytracer in GO + RaylibGO, but this time using shaders: [repo](https://github.com/alvinobarboza/go-ray-gpu)
-    - A software rasterizer(WIP) in C + Raylib: [repo](https://github.com/alvinobarboza/c-raster)
+    - A multithreaded software renderer(WIP) in Go + RaylibGO: [repo](https://github.com/alvinobarboza/go-raster)
 
 Welcome to my GitHub profile! I'm passionate about software development and have experience working with a wide range of technologies and also very hard feelings against the use of AI indiscriminately(No Cursor/Claude/ChatGPT/Deepseek), only for learning purposes.
 
@@ -30,7 +30,7 @@ Below are some of the tools and frameworks I have worked with:
 | -------- | -------- |
 | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/java-original.svg" alt="Java" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/javascript-original.svg" alt="JavaScript" width="40" height="40"/> |
 | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/csharp-original.svg" alt="C#" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/html5-original.svg" alt="HTML5" width="40" height="40"/> |
-| <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/cplusplus-original.svg" alt="C++" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/css3-original.svg" alt="CSS3" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/c-original.svg" alt="C" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/css3-original.svg" alt="CSS3" width="40" height="40"/> |
 |  | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/go-original.svg" alt="Go" width="40" height="40"/> |
 
 ### Frameworks
