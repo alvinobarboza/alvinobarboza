@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Alvino Barboza</h1>
 <h3 align="center">Fullstack</h3>
 
-- 🌳 I’m currently invested in **Go** and **C**
+- 🌳 I’m currently invested in **Go** and learning **C++** and some **C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/alvinobarboza](https://github.com/alvinobarboza?tab=repositories)
 
