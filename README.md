@@ -32,7 +32,8 @@ Below are some of the tools and frameworks I have worked with:
 | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/java-original.svg" alt="Java" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/javascript-original.svg" alt="JavaScript" width="40" height="40"/> |
 | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/csharp-original.svg" alt="C#" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/html5-original.svg" alt="HTML5" width="40" height="40"/> |
 | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/c-original.svg" alt="C" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/css3-original.svg" alt="CSS3" width="40" height="40"/> |
-|  | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/go-original.svg" alt="Go" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/cplusplus-original.svg" alt="C++" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/go-original.svg" alt="Go" width="40" height="40"/> |
+| <img src="https://raw.githubusercontent.com/alvinobarboza/alvinobarboza/main/icons/typescript-original.svg" alt="Typescript" width="40" height="40"/> |  |
 
 ### Frameworks
 
