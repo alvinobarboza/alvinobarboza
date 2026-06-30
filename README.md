@@ -27,7 +27,7 @@
 *   **[go-raster](https://github.com/alvinobarboza/go-raster)** - Multithreaded software renderer in Go + RaylibGO (WIP).
 *   **[go-ray-gpu](https://github.com/alvinobarboza/go-ray-gpu)** - GPU raytracer using shaders in Go + RaylibGO.
 *   **[go-ray-demo](https://github.com/alvinobarboza/go-ray-demo)** - Software raytracer built with Go + RaylibGO.
-*    **[raytarcer-cpp](https://github.com/alvinobarboza/raytracer-cpp)** - Software raytracer built in C++ + RaylibGO.
+*    **[raytarcer-cpp](https://github.com/alvinobarboza/raytracer-cpp)** - Software raytracer built in C++ + Raylib.
 * **[cmosaic](https://github.com/alvinobarboza/cmosaic)** - Simple video mosaic using Raylib in pure C (C99).
 *   **[udp-tcp-udp](https://github.com/alvinobarboza/udp-tcp-udp)** - Concurrent mpegts transporter (UDP over TCP to UDP) in Go.
 *   **[voice-chat](https://github.com/alvinobarboza/voice-chat)** - Group voice chat using WebSockets (Go) and WebRTC (JS).
