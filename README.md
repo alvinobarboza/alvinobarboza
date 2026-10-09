@@ -24,6 +24,7 @@
 
 ### ⚡ Featured Projects
 
+*   **[raster-cpp](https://github.com/alvinobarboza/raster-cpp)** - Multithreaded software renderer in C++23 + raylib (WIP).
 *   **[go-raster](https://github.com/alvinobarboza/go-raster)** - Multithreaded software renderer in Go + RaylibGO (WIP).
 *   **[go-ray-gpu](https://github.com/alvinobarboza/go-ray-gpu)** - GPU raytracer using shaders in Go + RaylibGO.
 *   **[go-ray-demo](https://github.com/alvinobarboza/go-ray-demo)** - Software raytracer built with Go + RaylibGO.
